@@ -1,4 +1,5 @@
-This is a Simple and modern tech website built using HTML, CSS, JAVASCRIPT
+<h1 align="center"><b>TechNova Website</b></h1> <br>
+<p align="center">This is a Simple and modern tech website built using HTML, CSS, JAVASCRIPT</p>
 <br>
 <h2>Features</h2>
 - Responsive Design
