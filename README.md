@@ -1,17 +1,16 @@
-<h1 align="center"><b>TechNova Website</b></h1> <br>
-<p align="center">This is a Simple and modern tech website built using HTML, CSS, JAVASCRIPT</p>
-<br>
-<h2>Features</h2>
+<div style="background-color:grey;"><h1 font size "10px">TechNova Website</h1> <br>
+<p>This is a Simple and modern tech website built using HTML, CSS, JAVASCRIPT</p>
+<h3>Features</h3>
 - Responsive Design
 - Modern UI
 - Easy Navigation
 - Beginner Friendly Code
 <br>
-<h2>Technologies Used</h2>
+<h3>Technologies Used</h3>
 - HTML
 - CSS
 - JavaScript
 <br>
-<h2>Author</h2>
-ALISHBA MUHAMMAD AFZAL KHAN 
+<h3>Author</h3>
+ALISHBA MUHAMMAD AFZAL KHAN </div>
 
