@@ -1,4 +1,5 @@
-<div style="background-color:grey;"><h1 font size "10px">TechNova Website</h1> <br>
+# **<h1>TechNova Website</h1>**
+ <br>
 <p>This is a Simple and modern tech website built using HTML, CSS, JAVASCRIPT</p>
 <h3>Features</h3>
 - Responsive Design
@@ -12,5 +13,5 @@
 - JavaScript
 <br>
 <h3>Author</h3>
-ALISHBA MUHAMMAD AFZAL KHAN </div>
+# **ALISHBA MUHAMMAD AFZAL KHAN**
 
