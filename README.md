@@ -12,5 +12,5 @@
 - JavaScript
 <br>
 <h2>Author</h2>
-<h1>Alishba Muhammad Afzal Khan</h1>
+<h3>Alishba Muhammad Afzal Khan</h3>
 
